@@ -1,5 +1,5 @@
 # Sprite Dungeon Crawler
-A project from [Hands-On Rust](https://hands-on-rust.com/) by Herbert Wolverson.
+A project from [Hands-On Rust](https://hands-on-rust.com/) by Herbert Wolverson. This project mainly serves as an introduction to the Rust programming language, as well as learning material about rendering.
 
 Still a WIP, will work on this whenever my work doesn't fill my time. 
 
